@@ -5,8 +5,8 @@
 1. 赋值运算符函数
 2. 实现Singleton模式
 3. 数组中重复的数字  
-&ensp;&ensp;&ensp;&ensp;题目一：找出数组中重复的数字 -> https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/  
-&ensp;&ensp;&ensp;&ensp;题目二：不修改数组找出重复的数字 -> https://leetcode.com/problems/find-the-duplicate-number/
+&ensp;&ensp;&ensp;&ensp;3.1 找出数组中重复的数字 -> https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/  
+&ensp;&ensp;&ensp;&ensp;3.2 不修改数组找出重复的数字 -> https://leetcode.com/problems/find-the-duplicate-number/
 4. 二维数组中的查找 -> https://leetcode.com/problems/search-a-2d-matrix-ii/
 5. 替换空格 -> https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 6. 从尾到头打印链表 -> https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
@@ -14,8 +14,8 @@
 8. 二叉树的下一个节点
 9. 用两个栈实现队列 -> https://leetcode.com/problems/implement-queue-using-stacks/
 10. 斐波那契数列  
-&ensp;&ensp;&ensp;&ensp;题目一：求斐波那契数列的第n项 -> https://leetcode.com/problems/fibonacci-number/  
-&ensp;&ensp;&ensp;&ensp;题目二：青蛙跳台阶问题
+&ensp;&ensp;&ensp;&ensp;10.1 求斐波那契数列的第n项 -> https://leetcode.com/problems/fibonacci-number/  
+&ensp;&ensp;&ensp;&ensp;10.2 青蛙跳台阶问题
 11. 旋转数组的最小数字 -> https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 12. 矩阵中的路径 -> https://leetcode.com/problems/word-search/
 13. 机器人的运动范围 -> https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
@@ -24,8 +24,8 @@
 16. 数值的整数次方 -> https://leetcode.com/problems/powx-n/
 17. 打印从1到最大的n位数
 18. 删除链表的节点  
-&ensp;&ensp;&ensp;&ensp;题目一：在O(1)时间内删除链表节点 -> https://leetcode.com/problems/delete-node-in-a-linked-list/  
-&ensp;&ensp;&ensp;&ensp;题目二：删除链表中重复的节点
+&ensp;&ensp;&ensp;&ensp;18.1 在O(1)时间内删除链表节点 -> https://leetcode.com/problems/delete-node-in-a-linked-list/  
+&ensp;&ensp;&ensp;&ensp;18.2 删除链表中重复的节点
 19. 正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
 20. 表示数值的字符串 -> https://leetcode.com/problems/valid-number/
 21. 调整数组顺序使奇数位于偶数前面 -> https://leetcode.com/problems/sort-array-by-parity/
@@ -40,9 +40,9 @@
 30. 包含min函数的栈 -> https://leetcode.com/problems/min-stack/
 31. 栈的压入、弹出序列 -> https://leetcode.com/problems/validate-stack-sequences/
 32. 从上到下打印二叉树  
-&ensp;&ensp;&ensp;&ensp;题目一：不分行从上到下打印二叉树 -> https://leetcode.com/problems/binary-tree-level-order-traversal/  
-&ensp;&ensp;&ensp;&ensp;题目二：分行从上到下打印二叉树  
-&ensp;&ensp;&ensp;&ensp;题目三：之字形打印二叉树 -> https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+&ensp;&ensp;&ensp;&ensp;32.1 不分行从上到下打印二叉树 -> https://leetcode.com/problems/binary-tree-level-order-traversal/  
+&ensp;&ensp;&ensp;&ensp;32.2 分行从上到下打印二叉树  
+&ensp;&ensp;&ensp;&ensp;32.3 之字形打印二叉树 -> https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 33. 二叉搜索树的后序遍历序列 -> https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/
 34. 二叉树中和为某一值得路径 -> https://leetcode.com/problems/path-sum/
 35. 复杂链表的复制 -> https://leetcode.com/problems/copy-list-with-random-pointer/
